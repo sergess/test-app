@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 6rem 1rem;
+    min-height: 100vh;
+    gap: 10px;
+}
+
+.home {
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+}
